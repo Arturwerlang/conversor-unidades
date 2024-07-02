@@ -1,0 +1,37 @@
+From Unit,To Unit,Conversion Factor
+g/dm³,mg/dm³,1000
+g/Kg,g/dm³,1000
+g/Kg,Kg/ha,2000
+g/Kg,t/ha,2
+mg/dm³,g/dm³ ou g/Kg,0.001
+mg/dm³,Kg/ha,2
+mg/dm³,t/ha,20
+Kg/ha,g/kg,0.0005
+Kg/ha,mg/dm³,0.5
+Kg/ha,t/ha,0.001
+t/ha,g/kg,0.5
+t/ha,mg/dm³,500
+t/ha,Kg/ha,1000
+mmolc/dm³,cmolc/dm³,0.1
+cmolc/dm³,mmolc/dm³,10
+m³/ha,mm,0.1
+%Argila,g/kg,10
+g/kg,%Argila,0.1
+N g,NO3 g,4.42680
+N g,NH4 g,1.28783
+K cmolc/dm³,K g/dm³,0.3909
+K cmolc/dm³,K mg/dm³,390
+K g/dm³,K cmolc/dm³,2.5582
+K g/dm³,K kg/ha,1.20458
+K Kg/ha,K2O Kg/ha,0.83016
+Ca g,Ca cmolc/dm³,49.9
+Ca Kg/ha,Ca mg/dm³,0.5
+CaO Kg,Ca kg,0.71470
+CaO%,Ca cmolc/dm³,0.01783
+MgO%,Mg cmolc/dm³,0.02480
+Mg g ,Mg cmolc/dm³,8.2304
+Mg Kg/ha,Mg mg/dm³,0.5
+MgO Kg,Mg Kg,0.60311
+P Kg/ha,P2O5 Kg/ha,2.29136
+P2O5 Kg/ha,P Kg/ha,0.43642
+SO4 g,S g,0.33379
